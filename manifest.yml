@@ -1,9 +1,9 @@
 ---
 applications:
-- name: shows-ZDD-V5
-  host: shows-cglean-v5
+- name: shows-ZDD-new
+  host: shows-cglean-new
   domain: cglean.com
-  memory: 1024MB
+  memory: 768MB
   instances: 1
   path: target/pcf-ers-demo1-0.0.1-SNAPSHOT.jar
 #  buildpack: java_buildpack
