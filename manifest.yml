@@ -10,3 +10,5 @@ applications:
   services: []
   env:
     SPRING_PROFILES_ACTIVE: cloud
+
+
