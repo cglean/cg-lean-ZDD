@@ -11,7 +11,7 @@ applications:
   - my-new-relic
   env:
     SPRING_PROFILES_ACTIVE: cloud
-    NEW_RELIC_APP_NAME: Shows-App
+    NEW_RELIC_APP_NAME: Shows-Zdd
 
 
  
