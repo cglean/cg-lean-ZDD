@@ -143,13 +143,13 @@
 	<distributionManagement>
                 <repository>
                                 <id>deployment</id>
-                                <url>http://54.83.156.141:8081/artifactory/ext-snapshot-local/</url>
+                                <url>http://54.146.43.222:8080/artifactory/ext-snapshot-local/</url>
                 </repository>
                 
                                 
                 <snapshotRepository>
                                 <id>deployment</id>
-                                <url>http://54.83.156.141:8081/artifactory/ext-snapshot-local/</url> 
+                                <url>http://54.146.43.222:8080/artifactory/ext-snapshot-local/</url> 
                 </snapshotRepository>
      </distributionManagement>
 
